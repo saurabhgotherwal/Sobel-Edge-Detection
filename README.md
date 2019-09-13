@@ -1,11 +1,11 @@
 # Sobel-Edge-Detection
 
-Objective:
+## Objective:
 
 The objective of this task is to detect edges along the x and y -axis in the given image using
 Sobel operator.
 
-Approach:
+## Approach:
 
 I am using two 3x3 kernels which are convolved with the image to respond to edges running
 vertically and horizontally changes relative to the pixel grid. Both the kernels are move in the
